@@ -1,3 +1,3 @@
-# SFML Plotter
+# SFML Plotter #
 
-A graph plotter for C++ made with SFML.
+A graph plotter for C++ made with SFML
